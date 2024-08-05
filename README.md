@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maks</h1>
 <h3 align="center">Passionate software developer with a skill for solving complex problems</h3>
-<img align="right" alt="Coding" width="300" src="https://media1.tenor.com/m/5ry-200hErMAAAAd/hacker-hacker-man.gif">
+<img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTNtdDZoN2hrbG44Y3Vid3lqM3Y2NDNlOHZ3ZzVyaGtndG1wa2U4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.webp">
 
 - 🔭 I’m currently working on [Led Stock Ticker](https://github.com/yahnyshc/stockTicker)
 
